@@ -1,0 +1,5 @@
+C:\Users\_\source\repos\ImGuiColorTextEditNet\DearImGuiInjection\obj\netstandard2.0\netstandard2.0\DearImGuiInjection.csproj.AssemblyReference.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\DearImGuiInjection\obj\netstandard2.0\netstandard2.0\DearImGuiInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\ImGuiColorTextEditNet\DearImGuiInjection\obj\netstandard2.0\netstandard2.0\DearImGuiInjection.AssemblyInfoInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\DearImGuiInjection\obj\netstandard2.0\netstandard2.0\DearImGuiInjection.AssemblyInfo.cs
+C:\Users\_\source\repos\ImGuiColorTextEditNet\DearImGuiInjection\obj\netstandard2.0\netstandard2.0\DearImGuiInjection.csproj.CoreCompileInputs.cache

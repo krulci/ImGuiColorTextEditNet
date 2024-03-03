@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleTestApp/1.0.0": {
+        "dependencies": {
+          "CppInterop": "1.0.0",
+          "NativeMemory": "1.0.0",
+          "PortableExecutable": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleTestApp.dll": {}
+        }
+      },
+      "CppInterop/1.0.0": {
+        "runtime": {
+          "CppInterop.dll": {}
+        }
+      },
+      "NativeMemory/1.0.0": {
+        "runtime": {
+          "NativeMemory.dll": {}
+        }
+      },
+      "PortableExecutable/1.0.0": {
+        "dependencies": {
+          "NativeMemory": "1.0.0"
+        },
+        "runtime": {
+          "PortableExecutable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CppInterop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NativeMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PortableExecutable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

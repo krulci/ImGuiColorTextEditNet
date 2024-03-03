@@ -1,0 +1,8 @@
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net462\RendererFinder.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net462\net462\RendererFinder.csproj.AssemblyReference.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net462\net462\RendererFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net462\net462\RendererFinder.AssemblyInfoInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net462\net462\RendererFinder.AssemblyInfo.cs
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net462\net462\RendererFinder.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net462\net462\Renderer.677D7C17.Up2Date
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net462\net462\RendererFinder.dll

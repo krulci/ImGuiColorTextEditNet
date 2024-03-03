@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\RendererFinder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\CppInterop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\CppInterop.csproj",
+        "projectName": "CppInterop",
+        "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\CppInterop.csproj",
+        "packagesPath": "C:\\Users\\_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\_\\source\\repos\\DMMListHacker\\DMMListHacker\\依赖包": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\NativeMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\NativeMemory.csproj",
+        "projectName": "NativeMemory",
+        "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\NativeMemory.csproj",
+        "packagesPath": "C:\\Users\\_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\_\\source\\repos\\DMMListHacker\\DMMListHacker\\依赖包": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\RendererFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\RendererFinder.csproj",
+        "projectName": "RendererFinder",
+        "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\RendererFinder.csproj",
+        "packagesPath": "C:\\Users\\_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\_\\source\\repos\\DMMListHacker\\DMMListHacker\\依赖包": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {
+              "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\CppInterop.csproj": {
+                "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\CppInterop.csproj"
+              },
+              "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\NativeMemory.csproj": {
+                "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\NativeMemory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "dependencies": {
+            "Reloaded.Hooks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "netstandard2.0.SharpDX": {
+              "target": "Package",
+              "version": "[4.2.1-beta0-g7abb72df54, )"
+            },
+            "netstandard2.0.SharpDX.DXGI": {
+              "target": "Package",
+              "version": "[4.2.1-beta0-g7abb72df54, )"
+            },
+            "netstandard2.0.SharpDX.Direct3D11": {
+              "target": "Package",
+              "version": "[4.2.1-beta0-g7abb72df54, )"
+            },
+            "netstandard2.0.SharpDX.Direct3D12": {
+              "target": "Package",
+              "version": "[4.2.1-beta0-g7abb72df54, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

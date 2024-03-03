@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+vr+ptT6o5BEps6CtHZP0sxKImN5zJehM2p/Qj1uF2vAl6HAcGdz7xvSCAj2t13F5hKooSQp3yFy56sp2SxVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\ConsoleTestApp\\ConsoleTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

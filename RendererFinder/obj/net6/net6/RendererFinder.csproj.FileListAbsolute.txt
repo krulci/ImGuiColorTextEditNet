@@ -1,0 +1,15 @@
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\FASM-LICENSE.TXT
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\FASM.DLL
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\FASMX64.DLL
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\Reloaded.Assembler.targets
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\RendererFinder.deps.json
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\RendererFinder.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\RendererFinder.csproj.AssemblyReference.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\RendererFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\RendererFinder.AssemblyInfoInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\RendererFinder.AssemblyInfo.cs
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\RendererFinder.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\Renderer.677D7C17.Up2Date
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\RendererFinder.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\refint\RendererFinder.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\RendererFinder\obj\net6\net6\ref\RendererFinder.dll

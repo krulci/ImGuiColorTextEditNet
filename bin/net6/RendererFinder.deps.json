@@ -1,0 +1,225 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RendererFinder/1.0.0": {
+        "dependencies": {
+          "CppInterop": "1.0.0",
+          "NativeMemory": "1.0.0",
+          "Reloaded.Hooks": "4.3.0",
+          "netstandard2.0.SharpDX": "4.2.1-beta0-g7abb72df54",
+          "netstandard2.0.SharpDX.DXGI": "4.2.1-beta0-g7abb72df54",
+          "netstandard2.0.SharpDX.Direct3D11": "4.2.1-beta0-g7abb72df54",
+          "netstandard2.0.SharpDX.Direct3D12": "4.2.1-beta0-g7abb72df54"
+        },
+        "runtime": {
+          "RendererFinder.dll": {}
+        }
+      },
+      "Iced/1.17.0": {
+        "runtime": {
+          "lib/netstandard2.1/Iced.dll": {
+            "assemblyVersion": "1.17.0.0",
+            "fileVersion": "1.17.0.0"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX/4.2.1-beta0-g7abb72df54": {
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.34"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX.Direct3D11/4.2.1-beta0-g7abb72df54": {
+        "dependencies": {
+          "netstandard2.0.SharpDX": "4.2.1-beta0-g7abb72df54",
+          "netstandard2.0.SharpDX.DXGI": "4.2.1-beta0-g7abb72df54"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.Direct3D11.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.34"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX.Direct3D12/4.2.1-beta0-g7abb72df54": {
+        "dependencies": {
+          "netstandard2.0.SharpDX": "4.2.1-beta0-g7abb72df54",
+          "netstandard2.0.SharpDX.DXGI": "4.2.1-beta0-g7abb72df54"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.Direct3D12.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.34"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX.DXGI/4.2.1-beta0-g7abb72df54": {
+        "dependencies": {
+          "netstandard2.0.SharpDX": "4.2.1-beta0-g7abb72df54"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.DXGI.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.34"
+          }
+        }
+      },
+      "Reloaded.Assembler/1.0.14": {
+        "dependencies": {
+          "Reloaded.Memory.Buffers": "2.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Assembler.dll": {
+            "assemblyVersion": "1.0.14.0",
+            "fileVersion": "1.0.14.0"
+          }
+        }
+      },
+      "Reloaded.Hooks/4.3.0": {
+        "dependencies": {
+          "Iced": "1.17.0",
+          "Reloaded.Assembler": "1.0.14",
+          "Reloaded.Hooks.Definitions": "1.15.0",
+          "Reloaded.Memory.Buffers": "2.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/Reloaded.Hooks.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Reloaded.Hooks.Definitions/1.15.0": {
+        "runtime": {
+          "lib/net6.0/Reloaded.Hooks.Definitions.dll": {
+            "assemblyVersion": "1.15.0.0",
+            "fileVersion": "1.15.0.0"
+          }
+        }
+      },
+      "Reloaded.Memory/7.0.0": {
+        "runtime": {
+          "lib/net6.0/Reloaded.Memory.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Reloaded.Memory.Buffers/2.0.0": {
+        "dependencies": {
+          "Reloaded.Memory": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Memory.Buffers.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "CppInterop/1.0.0": {
+        "runtime": {
+          "CppInterop.dll": {}
+        }
+      },
+      "NativeMemory/1.0.0": {
+        "runtime": {
+          "NativeMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RendererFinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Iced/1.17.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8x+HCVTl/HHTGpscH3vMBhV8sknN/muZFw9s3TsI8SA6+c43cOTCi2+jE4KsU8pNLbJ++iF2ZFcpcXHXtDglnw==",
+      "path": "iced/1.17.0",
+      "hashPath": "iced.1.17.0.nupkg.sha512"
+    },
+    "netstandard2.0.SharpDX/4.2.1-beta0-g7abb72df54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DkdZUvRhs6FbipblYp6OXwXhThtW5jwNkCU2T8bWj6UTPjzgC1gc2cWA+esQFgNvKm2lb7xyTHi6pQQmTn5esw==",
+      "path": "netstandard2.0.sharpdx/4.2.1-beta0-g7abb72df54",
+      "hashPath": "netstandard2.0.sharpdx.4.2.1-beta0-g7abb72df54.nupkg.sha512"
+    },
+    "netstandard2.0.SharpDX.Direct3D11/4.2.1-beta0-g7abb72df54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uviMi7DTEpoAJDwpiTEbV5mQHA9du0gr4its+MsCCIA7Y4/eC9eCpUlr/NTVASiH8bonhQQfrMIxIXI6skamOg==",
+      "path": "netstandard2.0.sharpdx.direct3d11/4.2.1-beta0-g7abb72df54",
+      "hashPath": "netstandard2.0.sharpdx.direct3d11.4.2.1-beta0-g7abb72df54.nupkg.sha512"
+    },
+    "netstandard2.0.SharpDX.Direct3D12/4.2.1-beta0-g7abb72df54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5TCkKkPiqttxemcwBunbr/95qtU0kpi5q9NrzE+EVf1VEuZvBazb9QXIKpvsXlGqPP4dBEPH6BW+lPuja0yZVA==",
+      "path": "netstandard2.0.sharpdx.direct3d12/4.2.1-beta0-g7abb72df54",
+      "hashPath": "netstandard2.0.sharpdx.direct3d12.4.2.1-beta0-g7abb72df54.nupkg.sha512"
+    },
+    "netstandard2.0.SharpDX.DXGI/4.2.1-beta0-g7abb72df54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5rmqCQrlwiEQSydABpepHE+xhwp3ZLb2B58tW32vGgtzByFxB/wnM2s0Uf2B2d953UfnioTxc8CxZKx5OnX3pA==",
+      "path": "netstandard2.0.sharpdx.dxgi/4.2.1-beta0-g7abb72df54",
+      "hashPath": "netstandard2.0.sharpdx.dxgi.4.2.1-beta0-g7abb72df54.nupkg.sha512"
+    },
+    "Reloaded.Assembler/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y4I1ktSnHPIz3t1JcWk5Xiu0C0BmrlJ6nDnQGwiyz65RH6hjn9vPCcKYjpQDveuTtsebBFdTdUjxTUSw+qtZ2w==",
+      "path": "reloaded.assembler/1.0.14",
+      "hashPath": "reloaded.assembler.1.0.14.nupkg.sha512"
+    },
+    "Reloaded.Hooks/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LhrqGeYMYCrcnlWCmSyQmdRJ7coizUixzCAHF3FVCdYT5ZHLzZnJWZoMrmYHbay762vtOYlgzQGenQgsWMxdbw==",
+      "path": "reloaded.hooks/4.3.0",
+      "hashPath": "reloaded.hooks.4.3.0.nupkg.sha512"
+    },
+    "Reloaded.Hooks.Definitions/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bLY20vYB0fS2xwu6RDQVwlJxt2//KXLigYrCsCuzt5QFQqkvft4abq9FWPeCJYcvEeg/GQpJ3LC+108/4I2l+g==",
+      "path": "reloaded.hooks.definitions/1.15.0",
+      "hashPath": "reloaded.hooks.definitions.1.15.0.nupkg.sha512"
+    },
+    "Reloaded.Memory/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QGg022yKnymnOGvvWQbIa7s0ODm3YRf4epRtr4D9pQ3KBy7mq/pF5kqCgW1oCmocjKnCKNBOBIz2A4zgZkLNkQ==",
+      "path": "reloaded.memory/7.0.0",
+      "hashPath": "reloaded.memory.7.0.0.nupkg.sha512"
+    },
+    "Reloaded.Memory.Buffers/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LghMip4Q1mpr9+HsZCGYazlaxnZyMtbiGf87Ttao8Al2F+wvnRet1gPPA5qEaTWnBFg/3DNILwBBbC0W6o0tsw==",
+      "path": "reloaded.memory.buffers/2.0.0",
+      "hashPath": "reloaded.memory.buffers.2.0.0.nupkg.sha512"
+    },
+    "CppInterop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NativeMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PortableExecutable/1.0.0": {
+        "dependencies": {
+          "NativeMemory": "1.0.0"
+        },
+        "runtime": {
+          "PortableExecutable.dll": {}
+        }
+      },
+      "NativeMemory/1.0.0": {
+        "runtime": {
+          "NativeMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PortableExecutable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NativeMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net462\NativeMemory.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\NativeMemory\obj\net462\net462\NativeMemory.csproj.AssemblyReference.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\NativeMemory\obj\net462\net462\NativeMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\ImGuiColorTextEditNet\NativeMemory\obj\net462\net462\NativeMemory.AssemblyInfoInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\NativeMemory\obj\net462\net462\NativeMemory.AssemblyInfo.cs
+C:\Users\_\source\repos\ImGuiColorTextEditNet\NativeMemory\obj\net462\net462\NativeMemory.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\NativeMemory\obj\net462\net462\NativeMemory.dll

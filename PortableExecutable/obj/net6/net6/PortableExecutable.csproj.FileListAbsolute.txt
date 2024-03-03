@@ -1,0 +1,11 @@
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\PortableExecutable.deps.json
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\net6\PortableExecutable.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\PortableExecutable.csproj.AssemblyReference.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\PortableExecutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\PortableExecutable.AssemblyInfoInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\PortableExecutable.AssemblyInfo.cs
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\PortableExecutable.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\Portable.FC63E999.Up2Date
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\PortableExecutable.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\refint\PortableExecutable.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\PortableExecutable\obj\net6\net6\ref\PortableExecutable.dll

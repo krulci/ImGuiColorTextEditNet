@@ -1,0 +1,19 @@
+[Message: Preloader] BepInEx 6.0.0 - TestProject
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 2022.3.11f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [DearImGuiInjection 1.0.2]
+[Info   :   Console] [RendererFinder] DX11Renderer.Init()
+[Info   :Il2CppInterop] Registered mono type UnityMainThreadDispatcher in il2cpp domain
+[Info   :   BepInEx] Loading [TestPluginDearImGui 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :DearImGuiInjection] ImGuiImplWin32Init, Window Handle: 13B1312

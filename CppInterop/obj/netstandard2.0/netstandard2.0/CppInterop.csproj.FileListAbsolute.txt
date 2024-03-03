@@ -1,0 +1,8 @@
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\netstandard2.0\CppInterop.deps.json
+C:\Users\_\source\repos\ImGuiColorTextEditNet\bin\netstandard2.0\CppInterop.dll
+C:\Users\_\source\repos\ImGuiColorTextEditNet\CppInterop\obj\netstandard2.0\netstandard2.0\CppInterop.csproj.AssemblyReference.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\CppInterop\obj\netstandard2.0\netstandard2.0\CppInterop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\ImGuiColorTextEditNet\CppInterop\obj\netstandard2.0\netstandard2.0\CppInterop.AssemblyInfoInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\CppInterop\obj\netstandard2.0\netstandard2.0\CppInterop.AssemblyInfo.cs
+C:\Users\_\source\repos\ImGuiColorTextEditNet\CppInterop\obj\netstandard2.0\netstandard2.0\CppInterop.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\ImGuiColorTextEditNet\CppInterop\obj\netstandard2.0\netstandard2.0\CppInterop.dll

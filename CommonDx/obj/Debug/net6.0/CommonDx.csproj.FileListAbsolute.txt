@@ -1,0 +1,17 @@
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\bin\Debug\net6.0\CommonDx.deps.json
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\bin\Debug\net6.0\CommonDx.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\bin\Debug\net6.0\CommonDx.pdb
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.csproj.AssemblyReference.cache
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.AssemblyInfoInputs.cache
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.AssemblyInfo.cs
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\refint\CommonDx.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.pdb
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\ref\CommonDx.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\bin\Debug\net6.0\SharpDX.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\bin\Debug\net6.0\SharpDX.Direct2D1.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\bin\Debug\net6.0\SharpDX.Direct3D11.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\bin\Debug\net6.0\SharpDX.DXGI.dll
+C:\Users\_\source\repos\PSImGui\DearImGuiInjection\CommonDx\obj\Debug\net6.0\CommonDx.csproj.CopyComplete

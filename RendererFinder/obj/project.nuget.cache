@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRmUXN/jh4v1Qky6yoLftpmkN6SP4MAYMA1RfMqtXtB4HmFZ85Q4P2W7A0wnnp9TwmquAMs9e018rR+fh3Gglw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\RendererFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\_\\.nuget\\packages\\iced\\1.17.0\\iced.1.17.0.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\netstandard2.0.sharpdx\\4.2.1-beta0-g7abb72df54\\netstandard2.0.sharpdx.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\netstandard2.0.sharpdx.direct3d11\\4.2.1-beta0-g7abb72df54\\netstandard2.0.sharpdx.direct3d11.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\netstandard2.0.sharpdx.direct3d12\\4.2.1-beta0-g7abb72df54\\netstandard2.0.sharpdx.direct3d12.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\netstandard2.0.sharpdx.dxgi\\4.2.1-beta0-g7abb72df54\\netstandard2.0.sharpdx.dxgi.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\reloaded.assembler\\1.0.14\\reloaded.assembler.1.0.14.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\reloaded.hooks\\4.3.0\\reloaded.hooks.4.3.0.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\reloaded.hooks.definitions\\1.15.0\\reloaded.hooks.definitions.1.15.0.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\reloaded.memory\\7.0.0\\reloaded.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\reloaded.memory.buffers\\2.0.0\\reloaded.memory.buffers.2.0.0.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

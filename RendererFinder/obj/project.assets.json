@@ -1,0 +1,503 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Iced/1.17.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Iced.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Iced.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX/4.2.1-beta0-g7abb72df54": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SharpDX.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX.Direct3D11/4.2.1-beta0-g7abb72df54": {
+        "type": "package",
+        "dependencies": {
+          "netstandard2.0.SharpDX": "4.2.1-beta0-g7abb72df54",
+          "netstandard2.0.SharpDX.DXGI": "4.2.1-beta0-g7abb72df54"
+        },
+        "compile": {
+          "lib/netstandard2.0/SharpDX.Direct3D11.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.Direct3D11.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX.Direct3D12/4.2.1-beta0-g7abb72df54": {
+        "type": "package",
+        "dependencies": {
+          "netstandard2.0.SharpDX": "4.2.1-beta0-g7abb72df54",
+          "netstandard2.0.SharpDX.DXGI": "4.2.1-beta0-g7abb72df54"
+        },
+        "compile": {
+          "lib/netstandard2.0/SharpDX.Direct3D12.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.Direct3D12.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "netstandard2.0.SharpDX.DXGI/4.2.1-beta0-g7abb72df54": {
+        "type": "package",
+        "dependencies": {
+          "netstandard2.0.SharpDX": "4.2.1-beta0-g7abb72df54"
+        },
+        "compile": {
+          "lib/netstandard2.0/SharpDX.DXGI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpDX.DXGI.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Reloaded.Assembler/1.0.14": {
+        "type": "package",
+        "dependencies": {
+          "Reloaded.Memory.Buffers": "2.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Reloaded.Assembler.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Assembler.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "build/Reloaded.Assembler.targets": {}
+        }
+      },
+      "Reloaded.Hooks/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Iced": "1.17.0",
+          "Reloaded.Assembler": "1.0.14",
+          "Reloaded.Hooks.Definitions": "1.15.0",
+          "Reloaded.Memory.Buffers": "2.0.0"
+        },
+        "compile": {
+          "lib/net5.0/Reloaded.Hooks.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Reloaded.Hooks.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Reloaded.Hooks.Definitions/1.15.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Reloaded.Hooks.Definitions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Hooks.Definitions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Reloaded.Memory/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Reloaded.Memory.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Memory.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Reloaded.Memory.Buffers/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Reloaded.Memory": "7.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Reloaded.Memory.Buffers.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Reloaded.Memory.Buffers.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CppInterop/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CppInterop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CppInterop.dll": {}
+        }
+      },
+      "NativeMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NativeMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NativeMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iced/1.17.0": {
+      "sha512": "8x+HCVTl/HHTGpscH3vMBhV8sknN/muZFw9s3TsI8SA6+c43cOTCi2+jE4KsU8pNLbJ++iF2ZFcpcXHXtDglnw==",
+      "type": "package",
+      "path": "iced/1.17.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "iced.1.17.0.nupkg.sha512",
+        "iced.nuspec",
+        "lib/net45/Iced.dll",
+        "lib/net45/Iced.xml",
+        "lib/netstandard2.0/Iced.dll",
+        "lib/netstandard2.0/Iced.xml",
+        "lib/netstandard2.1/Iced.dll",
+        "lib/netstandard2.1/Iced.xml",
+        "logo.png"
+      ]
+    },
+    "netstandard2.0.SharpDX/4.2.1-beta0-g7abb72df54": {
+      "sha512": "DkdZUvRhs6FbipblYp6OXwXhThtW5jwNkCU2T8bWj6UTPjzgC1gc2cWA+esQFgNvKm2lb7xyTHi6pQQmTn5esw==",
+      "type": "package",
+      "path": "netstandard2.0.sharpdx/4.2.1-beta0-g7abb72df54",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SharpDX.dll",
+        "lib/netstandard2.0/SharpDX.pdb",
+        "lib/netstandard2.0/SharpDX.xml",
+        "netstandard2.0.sharpdx.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+        "netstandard2.0.sharpdx.nuspec"
+      ]
+    },
+    "netstandard2.0.SharpDX.Direct3D11/4.2.1-beta0-g7abb72df54": {
+      "sha512": "uviMi7DTEpoAJDwpiTEbV5mQHA9du0gr4its+MsCCIA7Y4/eC9eCpUlr/NTVASiH8bonhQQfrMIxIXI6skamOg==",
+      "type": "package",
+      "path": "netstandard2.0.sharpdx.direct3d11/4.2.1-beta0-g7abb72df54",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SharpDX.Direct3D11.dll",
+        "lib/netstandard2.0/SharpDX.Direct3D11.pdb",
+        "lib/netstandard2.0/SharpDX.Direct3D11.xml",
+        "netstandard2.0.sharpdx.direct3d11.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+        "netstandard2.0.sharpdx.direct3d11.nuspec"
+      ]
+    },
+    "netstandard2.0.SharpDX.Direct3D12/4.2.1-beta0-g7abb72df54": {
+      "sha512": "5TCkKkPiqttxemcwBunbr/95qtU0kpi5q9NrzE+EVf1VEuZvBazb9QXIKpvsXlGqPP4dBEPH6BW+lPuja0yZVA==",
+      "type": "package",
+      "path": "netstandard2.0.sharpdx.direct3d12/4.2.1-beta0-g7abb72df54",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SharpDX.Direct3D12.dll",
+        "lib/netstandard2.0/SharpDX.Direct3D12.pdb",
+        "lib/netstandard2.0/SharpDX.Direct3D12.xml",
+        "netstandard2.0.sharpdx.direct3d12.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+        "netstandard2.0.sharpdx.direct3d12.nuspec"
+      ]
+    },
+    "netstandard2.0.SharpDX.DXGI/4.2.1-beta0-g7abb72df54": {
+      "sha512": "5rmqCQrlwiEQSydABpepHE+xhwp3ZLb2B58tW32vGgtzByFxB/wnM2s0Uf2B2d953UfnioTxc8CxZKx5OnX3pA==",
+      "type": "package",
+      "path": "netstandard2.0.sharpdx.dxgi/4.2.1-beta0-g7abb72df54",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SharpDX.DXGI.dll",
+        "lib/netstandard2.0/SharpDX.DXGI.pdb",
+        "lib/netstandard2.0/SharpDX.DXGI.xml",
+        "netstandard2.0.sharpdx.dxgi.4.2.1-beta0-g7abb72df54.nupkg.sha512",
+        "netstandard2.0.sharpdx.dxgi.nuspec"
+      ]
+    },
+    "Reloaded.Assembler/1.0.14": {
+      "sha512": "y4I1ktSnHPIz3t1JcWk5Xiu0C0BmrlJ6nDnQGwiyz65RH6hjn9vPCcKYjpQDveuTtsebBFdTdUjxTUSw+qtZ2w==",
+      "type": "package",
+      "path": "reloaded.assembler/1.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE",
+        "build/FASM-LICENSE.TXT",
+        "build/FASM.DLL",
+        "build/FASMX64.DLL",
+        "build/Reloaded.Assembler.targets",
+        "lib/net5.0/Reloaded.Assembler.dll",
+        "lib/net5.0/Reloaded.Assembler.pdb",
+        "lib/net5.0/Reloaded.Assembler.xml",
+        "lib/net6.0/Reloaded.Assembler.dll",
+        "lib/net6.0/Reloaded.Assembler.pdb",
+        "lib/net6.0/Reloaded.Assembler.xml",
+        "lib/netstandard2.0/Reloaded.Assembler.dll",
+        "lib/netstandard2.0/Reloaded.Assembler.pdb",
+        "lib/netstandard2.0/Reloaded.Assembler.xml",
+        "reloaded.assembler.1.0.14.nupkg.sha512",
+        "reloaded.assembler.nuspec"
+      ]
+    },
+    "Reloaded.Hooks/4.3.0": {
+      "sha512": "LhrqGeYMYCrcnlWCmSyQmdRJ7coizUixzCAHF3FVCdYT5ZHLzZnJWZoMrmYHbay762vtOYlgzQGenQgsWMxdbw==",
+      "type": "package",
+      "path": "reloaded.hooks/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.md",
+        "lib/net5.0/Reloaded.Hooks.dll",
+        "lib/net5.0/Reloaded.Hooks.xml",
+        "lib/net7.0/Reloaded.Hooks.dll",
+        "lib/net7.0/Reloaded.Hooks.xml",
+        "lib/netstandard2.0/Reloaded.Hooks.dll",
+        "lib/netstandard2.0/Reloaded.Hooks.xml",
+        "reloaded.hooks.4.3.0.nupkg.sha512",
+        "reloaded.hooks.nuspec"
+      ]
+    },
+    "Reloaded.Hooks.Definitions/1.15.0": {
+      "sha512": "bLY20vYB0fS2xwu6RDQVwlJxt2//KXLigYrCsCuzt5QFQqkvft4abq9FWPeCJYcvEeg/GQpJ3LC+108/4I2l+g==",
+      "type": "package",
+      "path": "reloaded.hooks.definitions/1.15.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net5.0/Reloaded.Hooks.Definitions.dll",
+        "lib/net5.0/Reloaded.Hooks.Definitions.xml",
+        "lib/net6.0/Reloaded.Hooks.Definitions.dll",
+        "lib/net6.0/Reloaded.Hooks.Definitions.xml",
+        "lib/netcoreapp3.1/Reloaded.Hooks.Definitions.dll",
+        "lib/netcoreapp3.1/Reloaded.Hooks.Definitions.xml",
+        "lib/netstandard2.0/Reloaded.Hooks.Definitions.dll",
+        "lib/netstandard2.0/Reloaded.Hooks.Definitions.xml",
+        "reloaded.hooks.definitions.1.15.0.nupkg.sha512",
+        "reloaded.hooks.definitions.nuspec"
+      ]
+    },
+    "Reloaded.Memory/7.0.0": {
+      "sha512": "QGg022yKnymnOGvvWQbIa7s0ODm3YRf4epRtr4D9pQ3KBy7mq/pF5kqCgW1oCmocjKnCKNBOBIz2A4zgZkLNkQ==",
+      "type": "package",
+      "path": "reloaded.memory/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "lib/net5.0/Reloaded.Memory.dll",
+        "lib/net5.0/Reloaded.Memory.xml",
+        "lib/net6.0/Reloaded.Memory.dll",
+        "lib/net6.0/Reloaded.Memory.xml",
+        "lib/netstandard2.0/Reloaded.Memory.dll",
+        "lib/netstandard2.0/Reloaded.Memory.xml",
+        "lib/netstandard2.1/Reloaded.Memory.dll",
+        "lib/netstandard2.1/Reloaded.Memory.xml",
+        "reloaded.memory.7.0.0.nupkg.sha512",
+        "reloaded.memory.nuspec"
+      ]
+    },
+    "Reloaded.Memory.Buffers/2.0.0": {
+      "sha512": "LghMip4Q1mpr9+HsZCGYazlaxnZyMtbiGf87Ttao8Al2F+wvnRet1gPPA5qEaTWnBFg/3DNILwBBbC0W6o0tsw==",
+      "type": "package",
+      "path": "reloaded.memory.buffers/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE",
+        "lib/net5.0/Reloaded.Memory.Buffers.dll",
+        "lib/net5.0/Reloaded.Memory.Buffers.xml",
+        "lib/net6.0/Reloaded.Memory.Buffers.dll",
+        "lib/net6.0/Reloaded.Memory.Buffers.xml",
+        "lib/netstandard2.0/Reloaded.Memory.Buffers.dll",
+        "lib/netstandard2.0/Reloaded.Memory.Buffers.xml",
+        "lib/netstandard2.1/Reloaded.Memory.Buffers.dll",
+        "lib/netstandard2.1/Reloaded.Memory.Buffers.xml",
+        "reloaded.memory.buffers.2.0.0.nupkg.sha512",
+        "reloaded.memory.buffers.nuspec"
+      ]
+    },
+    "CppInterop/1.0.0": {
+      "type": "project",
+      "path": "../CppInterop/CppInterop.csproj",
+      "msbuildProject": "../CppInterop/CppInterop.csproj"
+    },
+    "NativeMemory/1.0.0": {
+      "type": "project",
+      "path": "../NativeMemory/NativeMemory.csproj",
+      "msbuildProject": "../NativeMemory/NativeMemory.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CppInterop >= 1.0.0",
+      "NativeMemory >= 1.0.0",
+      "Reloaded.Hooks >= 4.3.0",
+      "netstandard2.0.SharpDX >= 4.2.1-beta0-g7abb72df54",
+      "netstandard2.0.SharpDX.DXGI >= 4.2.1-beta0-g7abb72df54",
+      "netstandard2.0.SharpDX.Direct3D11 >= 4.2.1-beta0-g7abb72df54",
+      "netstandard2.0.SharpDX.Direct3D12 >= 4.2.1-beta0-g7abb72df54"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\RendererFinder.csproj",
+      "projectName": "RendererFinder",
+      "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\RendererFinder.csproj",
+      "packagesPath": "C:\\Users\\_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\RendererFinder\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\_\\source\\repos\\DMMListHacker\\DMMListHacker\\依赖包": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.bepinex.dev/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "projectReferences": {
+            "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\CppInterop.csproj": {
+              "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\CppInterop\\CppInterop.csproj"
+            },
+            "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\NativeMemory.csproj": {
+              "projectPath": "C:\\Users\\_\\source\\repos\\ImGuiColorTextEditNet\\NativeMemory\\NativeMemory.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6",
+        "dependencies": {
+          "Reloaded.Hooks": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "netstandard2.0.SharpDX": {
+            "target": "Package",
+            "version": "[4.2.1-beta0-g7abb72df54, )"
+          },
+          "netstandard2.0.SharpDX.DXGI": {
+            "target": "Package",
+            "version": "[4.2.1-beta0-g7abb72df54, )"
+          },
+          "netstandard2.0.SharpDX.Direct3D11": {
+            "target": "Package",
+            "version": "[4.2.1-beta0-g7abb72df54, )"
+          },
+          "netstandard2.0.SharpDX.Direct3D12": {
+            "target": "Package",
+            "version": "[4.2.1-beta0-g7abb72df54, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
